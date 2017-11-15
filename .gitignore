@@ -1,0 +1,3 @@
+/stream/client/client
+/stream/server/server
+/stream/proto/*.pb.go
